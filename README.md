@@ -3,10 +3,7 @@
 A portfolio case study of a web-based hydroinformatics platform using MIKE+ workflows for geospatial visualization, simulation scenario management, and environmental time-series analysis.
 
 > Note: This repository is a public case study. The full production source code, client data, model files, and credentials are not included.
->
-## Screenshots
 
-### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
 ## Overview
