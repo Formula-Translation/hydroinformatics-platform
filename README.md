@@ -11,9 +11,7 @@ A portfolio case study of a web-based hydroinformatics platform using MIKE+ work
 
 ## Overview
 
-This platform was designed to support water management workflows by combining GIS visualization, MIKE+ hydrological simulation data, and interactive dashboards.
-
-The system helps users explore simulation scenarios, inspect time-series results, and understand spatial water-related data through a web interface.
+This platform was designed to support water management workflows by combining GIS visualization, MIKE+ hydrological simulation data, and interactive dashboards. The system helps users explore simulation scenarios, inspect time-series results, and understand spatial water-related data through a web interface.
 
 ## Key Features
 
